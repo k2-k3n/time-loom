@@ -1,0 +1,31 @@
+{
+  "folder": "09-Time-Loom",
+  "description": "抓取最近弹奏的短句，按节奏重复，松开后渐渐散开。",
+  "app": {
+    "file": "App.rpk",
+    "id": "org.resona.demo.time-loom",
+    "name": "Time Loom",
+    "version": "0.2.2",
+    "kind": 1,
+    "bytes": 164200,
+    "sha256": "0e3575885bdcf51f0b22499a2bf7af93fc77b43f1e18655310a05d5feab763b7",
+    "crc32": 3345270450
+  },
+  "audio_packs": [
+    {
+      "file": "Audio-Pack.rpk",
+      "id": "org.resona.demo.time-loom-dsp",
+      "name": "Time Loom DSP",
+      "version": "0.1.2",
+      "kind": 0,
+      "bytes": 3720,
+      "sha256": "e72b32e9853378c0595b9311a4a8903cda6276a30115b43108aa00359cb94a5a",
+      "crc32": 1820755900
+    }
+  ],
+  "source": "source/",
+  "cover": "界面.png",
+  "license_file_present": true,
+  "host_build_check": "passed",
+  "community_upload": "not sent"
+}

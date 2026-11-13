@@ -1,0 +1,10 @@
+{
+  "name": "Time Loom DSP",
+  "id": "org.resona.demo.time-loom-dsp",
+  "version": "0.1.2",
+  "api": 1,
+  "description": "Copy-free mono guitar phrase capture, crossfaded repeats and decaying unravel with PSRAM banks.",
+  "sources": [
+    "src/loom.cpp"
+  ]
+}

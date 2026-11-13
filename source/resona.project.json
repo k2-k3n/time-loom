@@ -1,0 +1,11 @@
+{
+  "name": "Time Loom",
+  "id": "org.resona.demo.time-loom",
+  "version": "0.2.2",
+  "api": 1,
+  "description": "Hold a guitar phrase, weave short mono repeats, release to unravel. Includes Time Loom DSP dependency.",
+  "kind": "app",
+  "sources": [
+    "src/loom_app.cpp"
+  ]
+}

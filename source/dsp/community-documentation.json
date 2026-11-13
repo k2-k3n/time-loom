@@ -1,0 +1,7 @@
+{
+  "description": "留住最近弹过的吉他片段并循环，释放后逐渐衰减。",
+  "readme": "# Time Loom DSP\n\n留住最近弹过的吉他片段并循环，释放后逐渐衰减。\n\n## 使用方法\n\n1. 先在 Resona Box 上安装本音频包。\n2. 安装并打开 Time Loom 0.2.2。\n3. 在 App 界面使用上方和下方编码器控制音色与功能。\n\n## 配套关系\n\n- 音频包：`org.resona.demo.time-loom-dsp`，版本 0.1.2\n- App：`org.resona.demo.time-loom`，版本 0.2.2\n\n完整界面及双编码器的旋转、短按、长按说明见 Time Loom 的社区项目页面。\n\nDRY 淡入后直接输出吉他干声，强拨弦也保留原始动态。\n",
+  "release_notes": "DRY 淡入后直接输出吉他干声，强拨弦也保留原始动态。",
+  "source_url": "https://github.com/k2-k3n/time-loom/tree/main/source/dsp",
+  "category": ""
+}

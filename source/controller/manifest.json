@@ -1,0 +1,26 @@
+{
+  "controllerVersion": "0.2.0",
+  "enabled": true,
+  "entries": {
+    "mobile": "mobile/index.html",
+    "web": "web/index.html"
+  },
+  "entry": "mobile/index.html",
+  "format": "clcontrol",
+  "id": "org.resona.demo.time-loom.controller",
+  "interfaces": [
+    "web",
+    "mobile"
+  ],
+  "name": "Time Loom",
+  "permissions": [
+    "midi"
+  ],
+  "target": {
+    "appId": "org.resona.demo.time-loom",
+    "appName": "Time Loom",
+    "appVersion": "0.2.0",
+    "protocolVersion": 1
+  },
+  "version": 1
+}

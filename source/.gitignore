@@ -1,0 +1,4 @@
+build/
+.resona-sdk-staging/
+.resona-sdk-backup/
+.resona-sdk-lock-*
